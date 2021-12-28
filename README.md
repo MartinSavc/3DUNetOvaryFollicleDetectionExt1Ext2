@@ -1,5 +1,18 @@
 # 3D U-Net ovary and follicle detection, Ext1 and Ext2
 
+### Dependencies
+
+The code requires the following libraries:
+* tensorflow 2.x
+* albumentations
+* matplotlib
+* numpy
+* scipy
+* scikit-image
+* h5py
+* nilearn
+* nibabel
+
 ### USOVA Dataset
 
 The dataset is available [here](https://usova3d.um.si/wordpress/).
