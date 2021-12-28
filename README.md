@@ -28,3 +28,7 @@ python predictALL_USOVA3D_unet_ext.py \
 	--outFollicles predictionsFollicles.h5 \
 	--testData testSet.h5
 ```
+
+### Publication
+If you use this code or models in your publication please cite:
+- B. Potočnik, M. Šavc, Deeply-Supervised 3D Convolutional Neural Networks for Automated Ovary and Follicle Detection from Ultrasound Volumes , Applied Sciences, 2022, submitted.
